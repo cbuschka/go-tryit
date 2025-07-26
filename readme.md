@@ -1,4 +1,4 @@
-# go-try - a retry lib
+# go-tryit - a retry lib
 
 ## License
 

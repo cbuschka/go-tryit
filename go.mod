@@ -1,4 +1,4 @@
-module github.io/cbuschka/go-try
+module github.io/cbuschka/go-tryit
 
 go 1.24.4
 

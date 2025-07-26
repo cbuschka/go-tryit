@@ -1,4 +1,4 @@
-package try
+package tryit
 
 import (
 	"fmt"
