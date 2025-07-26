@@ -1,8 +1,3 @@
-# go-tryit - a retry lib
-
-## Example
-
-```go
 package examples
 
 import (
@@ -19,10 +14,3 @@ func basicExample() error {
 	})
 	return err
 }
-```
-
-see [./examples/basic.go](./examples/basic.go)
-
-## License
-
-[MIT-0](./license.txt)
